@@ -174,3 +174,5 @@ This project is released under the Apache License, Version 2.0. See the LICENSE 
 **GitHub:** [vinhatson](https://github.com/vinhatson)
 
 Join us in plunging deeper into the eternal abyss of The Bipolar Indivisible Monster! 🔥
+## BSC Wallet:
+0xa5A79ed3eAb91Ea669b1DeC48fbe9aFbe4781dA2
