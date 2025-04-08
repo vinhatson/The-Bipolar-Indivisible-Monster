@@ -174,4 +174,6 @@ This project is released under the Apache License, Version 2.0. See the LICENSE 
 **GitHub:** [vinhatson](https://github.com/vinhatson)
 
 Join us in plunging deeper into the eternal abyss of The Bipolar Indivisible Monster! 🔥
+## Donate: 
+## TRC20: TLJsi4XKbFXZ1osgLKZq2sFV1XjmX6i9yD
 
